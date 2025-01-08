@@ -1,4 +1,0 @@
-pool: 
-    name: Azure Pipelines
-steps:
-- bash: echo hello world
